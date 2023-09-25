@@ -3,9 +3,9 @@
     "heightNum": 10,
     "levelKey": 90014,
     "blockTypeData": {
-        "1": 2,
-        "2": 2,
-        "3": 2
+        "1": 20,
+        "2": 20,
+        "3": 20
     },
     "levelData": {
         "1": [
