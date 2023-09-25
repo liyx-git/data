@@ -1,0 +1,95 @@
+{
+    "widthNum": 8,
+    "heightNum": 10,
+    "levelKey": 90014,
+    "blockTypeData": {
+        "1": 1,
+        "2": 1,
+        "3": 1
+    },
+    "levelData": {
+        "1": [
+            {
+                "id": "1-12-12",
+                "type": 0,
+                "rolNum": 12,
+                "rowNum": 12,
+                "layerNum": 1,
+                "moldType": 1,
+                "blockNode": null
+            },
+            {
+                "id": "1-20-12",
+                "type": 0,
+                "rolNum": 20,
+                "rowNum": 12,
+                "layerNum": 1,
+                "moldType": 1,
+                "blockNode": null
+            },
+            {
+                "id": "1-24-28",
+                "type": 0,
+                "rolNum": 24,
+                "rowNum": 28,
+                "layerNum": 1,
+                "moldType": 1,
+                "blockNode": null
+            },
+            {
+                "id": "1-32-28",
+                "type": 0,
+                "rolNum": 32,
+                "rowNum": 28,
+                "layerNum": 1,
+                "moldType": 1,
+                "blockNode": null
+            },
+            {
+                "id": "1-24-36",
+                "type": 0,
+                "rolNum": 24,
+                "rowNum": 36,
+                "layerNum": 1,
+                "moldType": 1,
+                "blockNode": null
+            },
+            {
+                "id": "1-32-36",
+                "type": 0,
+                "rolNum": 32,
+                "rowNum": 36,
+                "layerNum": 1,
+                "moldType": 1,
+                "blockNode": null
+            },
+            {
+                "id": "1-36-12",
+                "type": 0,
+                "rolNum": 36,
+                "rowNum": 12,
+                "layerNum": 1,
+                "moldType": 1,
+                "blockNode": null
+            },
+            {
+                "id": "1-44-12",
+                "type": 0,
+                "rolNum": 44,
+                "rowNum": 12,
+                "layerNum": 1,
+                "moldType": 1,
+                "blockNode": null
+            },
+            {
+                "id": "1-4-52",
+                "type": 0,
+                "rolNum": 4,
+                "rowNum": 52,
+                "layerNum": 1,
+                "moldType": 2,
+                "blockNode": null
+            }
+        ]
+    }
+}
