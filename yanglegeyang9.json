@@ -19,6 +19,15 @@
                 "blockNode": null
             },
             {
+                "id": "1-12-12",
+                "type": 0,
+                "rolNum": 12,
+                "rowNum": 12,
+                "layerNum": 1,
+                "moldType": 1,
+                "blockNode": null
+            },
+            {
                 "id": "1-20-12",
                 "type": 0,
                 "rolNum": 20,
